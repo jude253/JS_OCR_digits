@@ -17,8 +17,8 @@ opencv.js - the opencv.js library
 3. edit the index.html file in your favorite code editor.
 
 ## Next we need to: 
-1.countour the swelled image
-2.get the bounding boxes of the digits
-3.crop digits into individual images
-4.convert digit lookup NN to tensorflow.js format, then embed in index.html
-5.fine tune
+1. countour the swelled image
+2. get the bounding boxes of the digits
+3. crop digits into individual images
+4. convert digit lookup NN to tensorflow.js format, then embed in index.html
+5. fine tune process and wrap in functions
