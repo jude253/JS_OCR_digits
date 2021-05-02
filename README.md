@@ -12,7 +12,7 @@ opencv.js - the opencv.js library
 
 ## Set up:
 
-1. run `git clone https://github.com/jude253/JS_OCR_digits` in a folder where you want the project to be located
+1. run `git clone https://github.com/jude253/JS_OCR_digits.git` in a folder where you want the project to be located
 2. click on index.html and run it in chrome (or which ever browser you choose) to run the image processing and debugging
 3. edit the index.html file in your favorite code editor.
 
